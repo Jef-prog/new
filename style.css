@@ -1,0 +1,42 @@
+
+body{
+    background: darkslateblue;
+    color: white;
+}
+
+
+
+h1{
+    text-align: center;
+    color: yellow;
+}
+
+nav{
+    text-align: center;
+}
+nav ul{
+    padding: 5px;
+}
+
+nav li{
+    display: inline-block;
+    height: 27px;
+}
+
+nav ul li a{
+    display: block;
+    border-radius: 20%;
+    padding: 3px;
+    background-color: limegreen;
+    float: left;
+    
+}
+
+#navicons{
+    height: 25px;
+    border-radius: 20%;
+}
+
+#course ul li{
+    left: 10px;
+}
